@@ -1,2 +1,5 @@
 # Tableau_projects
-Tableau Projects
+
+다양한 종류의 데이터에 대해 직관적인 대시보드를 설계한 프로젝트 정리
+
+---
